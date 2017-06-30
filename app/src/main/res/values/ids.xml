@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="splash" type="id" />
+    <item name="mUser_name" type="id" />
+    <item name="mPassword" type="id" />
+    <item name="login" type="id" />
+    <item name="new_user" type="id" />
+    <item name="register" type="id" />
+    <item name="mConfirmPassword" type="id" />
+    <item name="user_name" type="id" />
+    <item name="password" type="id" />
+</resources>
